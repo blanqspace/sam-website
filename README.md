@@ -15,11 +15,8 @@ sam-website/
 ├── contact.html        ← Kontaktseite
 ├── style.css           ← Zentrales Design
 ├── README.md           ← Projektdokumentation
-├── /img/               ← Logos und Bilder
-│   ├── logo.png
-│   └── beispiel.jpg
-├── /js/                ← Optional: eigene JavaScript-Dateien
-└── /assets/            ← Sonstige Dateien (PDFs, Visitenkarte etc.)
+└── /img/               ← Logos und Bilder
+    └── logo.png
 ```
 
 
